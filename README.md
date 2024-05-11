@@ -11,7 +11,7 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-### 😂Random Dev Meme
+### 😂Picture Dev Meme
 <img src="https://github.com/Glasspham/Glasspham/blob/main/2.jpg" width="512px"/>
 
 ---
