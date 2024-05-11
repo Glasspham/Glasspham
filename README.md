@@ -12,7 +12,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
 ### 😂Random Dev Meme
-<img src="" width="512px"/>
+<img src="https://github.com/Glasspham/Glasspham/blob/main/2.jpg" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Glasspham&icon=9&color=6)](https://visitcount.itsvg.in)
