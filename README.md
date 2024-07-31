@@ -35,12 +35,9 @@
 
 
 ---
-![](https://github-readme-streak-stats.herokuapp.com/?user=Glasspham&theme=jolly&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Glasspham&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Glasspham&theme=jolly&hide_border=false" alt=""/>
 </div>
 
 <p align="center">
