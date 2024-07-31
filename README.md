@@ -12,7 +12,7 @@
 
 ### Environments, Testing, Other:
 | nodejs | Git |
-|----------|----------|----------|----------|----------|----------|----------|----------|----------|
+|----------|----------|
 |<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|
 
 
