@@ -28,18 +28,24 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="cl" alt="CL" width="30" height="30"/>
 
 
+---
+<p align="center">
+  <img width="800" height="220" src="https://streak-stats.demolab.com?user=sammorozov&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</p>
 
-# 📊GitHub Stats :
+
+---
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Glasspham&theme=jolly&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Glasspham&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
-### 😂Picture Dev Meme
-<img src="https://github.com/Glasspham/Glasspham/blob/main//assets/avatar.jpg" width="200px"/>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
+</div>
 
-
-
-
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Glasspham&icon=9&color=6)](https://visitcount.itsvg.in)
