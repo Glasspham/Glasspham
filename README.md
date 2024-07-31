@@ -4,7 +4,6 @@
 
 ## 💻Languages and Tools 
 <div>
-
 ### Languages:
 | Python3 | C++ | HTML | CSS | JS | Matmatlab |
 |----------|----------|----------|-----|-----|-----|
@@ -31,6 +30,7 @@
 ---
 <div id="header" align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Glasspham&theme=jolly&hide_border=false" alt=""/>
+  </br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glasspham&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt=""/>
 </div>
 
