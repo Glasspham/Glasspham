@@ -30,10 +30,9 @@
 
 ---
 <div id="header" align="center">
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Glasspham&theme=jolly&hide_border=false" alt=""/> -->
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=&theme=dark&hide_border=true&mode=weekly&card_width=500&card_height=200" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Glasspham&theme=transparent&hide_border=true" alt=""/>
   </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glasspham&theme=jolly&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glasspham&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt=""/>
 </div>
 
 
