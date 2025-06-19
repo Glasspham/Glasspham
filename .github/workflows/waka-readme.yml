@@ -18,17 +18,10 @@ jobs:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           SHOW_TITLE: true
-          SECTION_NAME: Glasspham
           BLOCKS: ░▒▓█
           CODE_LANG: C++,Python,Java,JavaScript,TypeScript,HTML,CSS,Markdown,JSON,PHP,Mathlab,C,Pascal,Yaml
           TIME_RANGE: all_time
-          LANG_COUNT: 10
           SHOW_TIME: true
           SHOW_TOTAL: true
-          SHOW_MASKED_TIME: false
           STOP_AT_OTHER: true
-          COMMITTER_NAME: Glasspham
-          COMMITTER_EMAIL: hathimongthu1980@gmail.com
-          AUTHOR_NAME: Glasspham
-          AUTHOR_EMAIL: hathimongthu1980@gmail.com
           # you can populate email-id with secrets instead
