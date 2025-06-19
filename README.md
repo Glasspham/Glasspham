@@ -1,46 +1,50 @@
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=Glasspham&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+# About me
 
+## 💻Languages and Tools
 
-## 💻Languages and Tools 
 <div>
 
 ### Languages:
-| C++ | Python | HTML | CSS | JS | Mattlab |
-|----------|----------|----------|-----|-----|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML"  alt="HTML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS"  alt="CSS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS"  alt="JS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="Matlab"  alt="Matlab" width="55" height="55"/> |
 
-### Environments, Testing, Other:
-| nodejs | Git |
-|----------|----------|
-|<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="NodeJS" width="55" height="55"/>|<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>|
+<p align="left">
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++"  alt="c++" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python"  alt="python" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html"  alt="html" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css"  alt="css" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js"  alt="js" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab"  alt="matlab" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php"  alt="php" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react"  alt="react" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript"  alt="typescript" width="50" height="50"/>
+
+### Environments, Other:
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="maven" alt="maven" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="tomcat" alt="tomcat" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="50" height="50"/>
 
 ### OS:
 
-| Window | Ubuntu | Linux |
-|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="Window11" alt="Window11" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/> |
+<img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="window11" alt="window11" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu" alt="ubuntu" width="50" height="50"/>
 
+### Text Editor/IDE:
 
-### It's not technology, but I use it. The section will be changed soon.:
-<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PC" alt="PC" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="cl" alt="CL" width="30" height="30"/>
-
-
----
-<div id="header" align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Glasspham&theme=transparent&hide_border=true" alt=""/>
-  </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glasspham&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt=""/>
-</div>
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="visualstudio" alt="visualstudio" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="cl" alt="cl" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="50" height="50"/>
 
 ---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+---
+
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-
----
-[![](https://visitcount.itsvg.in/api?id=Glasspham&icon=9&color=6)](https://visitcount.itsvg.in)
