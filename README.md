@@ -15,16 +15,35 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="matlab"  alt="matlab" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php"  alt="php" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java"  alt="java" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react"  alt="react" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript"  alt="typescript" width="50" height="50"/>
 
-### Frameworks & Tools:
+### Frameworks & Libraries:
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react"  alt="react" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/matplotlib/matplotlib-original-wordmark.svg" title="matplotlib" alt="matplotlib" width="50" height="50"/>
+
+### Tools & Platforms
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" title="maven" alt="maven" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" title="tomcat" alt="tomcat" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker" alt="docker" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="powershell" alt="powershell" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="postman" alt="postman" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="swagger" alt="swagger" width="50" height="50"/>
+
+### Databases
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="docker" alt="docker" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="docker" alt="docker" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle" alt="oracle" width="50" height="50"/>
+
 
 ### Operating System:
 
@@ -36,8 +55,10 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="visualstudio" alt="visualstudio" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="cl" alt="cl" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/clion/clion-original.svg" title="clion" alt="clion" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/eclipse/eclipse-original.svg" title="eclipse" alt="eclipse" width="50" height="50"/>
 
 ---
 
