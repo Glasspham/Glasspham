@@ -1,5 +1,17 @@
 # About me
 
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Sevillana&size=30&pause=1000&color=5EDDD8C1&background=75C75B00&center=true&vCenter=true&width=500&lines=Welcome+to+my+Github!+%F0%9F%91%8B;%F0%9F%A7%92%F0%9F%8F%BBI+am+V%C3%B5+(or+you+can+call+me+Glasspham)" alt="Typing SVG" /></a>
+</p>
+<div>
+
+I'm currently studying Computer Networks and Data Communications—a branch of IT that is quite different from the coding projects you see in my repositories. However, I am truly passionate about coding and love exploring new technologies.
+
+With experience in various programming languages, frameworks, and tools, I enjoy turning ideas into reality.
+I'm always eager to learn, collaborate, and contribute to open-source projects.
+
+Let's connect and create something amazing together!
+
 ## 💻Languages and Tools
 
 <div>
