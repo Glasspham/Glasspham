@@ -79,10 +79,10 @@ Let's connect and create something amazing together!
 ```C++,Python,Java,JavaScript,TypeScript,HTML,CSS,Markdown,JSON,PHP,Mathlab,C,Pascal,Yaml
 From: 18 June 2025 - To: 19 June 2025
 
-Total Time: 2 hrs 8 mins
+Total Time: 2 hrs 10 mins
 
-YAML       1 hr 5 mins     ████████████▓░░░░░░░░░░░░   50.41 %
-Markdown   1 hr 3 mins     ████████████▒░░░░░░░░░░░░   49.43 %
+YAML       1 hr 5 mins     ████████████▒░░░░░░░░░░░░   49.97 %
+Markdown   1 hr 4 mins     ████████████▒░░░░░░░░░░░░   49.87 %
 Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
