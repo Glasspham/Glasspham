@@ -77,13 +77,15 @@ Let's connect and create something amazing together!
 <!--START_SECTION:waka-->
 
 ```C++,Python,Java,JavaScript,TypeScript,HTML,CSS,Markdown,JSON,PHP,Mathlab,C,Pascal,Yaml
-From: 18 June 2025 - To: 19 June 2025
+From: 18 June 2025 - To: 20 June 2025
 
-Total Time: 2 hrs 10 mins
+Total Time: 4 hrs 21 mins
 
-YAML       1 hr 5 mins     ████████████▒░░░░░░░░░░░░   49.97 %
-Markdown   1 hr 4 mins     ████████████▒░░░░░░░░░░░░   49.87 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
+Markdown     2 hrs 38 mins   ███████████████░░░░░░░░░░   60.52 %
+YAML         1 hr 5 mins     ██████▒░░░░░░░░░░░░░░░░░░   25.08 %
+TypeScript   19 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 %
+PHP          11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.29 %
+Java         6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.53 %
 ```
 
 <!--END_SECTION:waka-->
