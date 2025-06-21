@@ -74,6 +74,14 @@ Let's connect and create something amazing together!
 
 ---
 
+<p align="center">
+<a href="https://github.com/Glasspham">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Glasspham&show_icons=true&locale=en&include_all_commits=true&count_private=true\&rank_icon=github\&bg_color=89216B,89216B\&title_color=fff\&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Glasspham&count_private=true&show_icons=true&locale=en&hide_progress=true&langs_count=20\&bg_color=89216B,89216B\&title_color=fff\&text_color=fff"/>
+  <img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=Glasspham&ring=EB5454\&bg_color=89216B,89216B\&title_color=fff\&text_color=fff"/>
+
+---
+
 <!--START_SECTION:waka-->
 
 ```C++,Python,Java,JavaScript,TypeScript,HTML,CSS,Markdown,JSON,PHP,Mathlab,C,Pascal,Yaml
