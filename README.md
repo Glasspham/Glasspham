@@ -18,7 +18,7 @@ Let's connect and create something amazing together!
 
 ### Languages:
 
-<p align="left">
+<p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++"  alt="c++" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python"  alt="python" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html"  alt="html" width="50" height="50"/>
@@ -31,6 +31,7 @@ Let's connect and create something amazing together!
 
 ### Frameworks & Libraries:
 
+<p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="react"  alt="react" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="bootstrap" alt="bootstrap" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="django" alt="django" width="50" height="50"/>
@@ -38,6 +39,7 @@ Let's connect and create something amazing together!
 
 ### Tools & Platforms
 
+<p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="gitlab" alt="gitlab" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="nodejs" alt="nodejs" width="50" height="50"/>
@@ -52,18 +54,20 @@ Let's connect and create something amazing together!
 
 ### Databases
 
+<p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="docker" alt="docker" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" title="docker" alt="docker" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="oracle" alt="oracle" width="50" height="50"/>
 
-
 ### Operating System:
 
+<p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="window11" alt="window11" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu" alt="ubuntu" width="50" height="50"/>
 
 ### Editors & IDEs:
 
+<p align="center">
 <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="visualstudio" alt="visualstudio" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="50" height="50"/>
