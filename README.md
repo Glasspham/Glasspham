@@ -89,16 +89,16 @@ Let's connect and create something amazing together!
 <!--START_SECTION:waka-->
 
 ```C++,Python,Java,JavaScript,TypeScript,HTML,CSS,Markdown,JSON,PHP,Mathlab,C,Pascal,Yaml,PowerShell,Shell,Bash,Go,Swift,Rust,Kotlin,Dart,Groovy,Perl,Ruby,F#,R,SQL,Batchfile,Assembly
-C++                        76 hrs          ████████░░░░░░░░░░░░░░░░░   32.35 %
-JavaScript                 25 hrs 4 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.67 %
-Markdown                   23 hrs 29 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.00 %
-Java                       22 hrs 43 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.67 %
-TypeScript                 22 hrs 7 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.42 %
-Python                     20 hrs 37 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.78 %
-HTML                       15 hrs 53 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.76 %
+C++                        76 hrs          ████████░░░░░░░░░░░░░░░░░   32.27 %
+JavaScript                 25 hrs 4 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+Markdown                   23 hrs 29 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.98 %
+Java                       22 hrs 43 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   09.65 %
+TypeScript                 22 hrs 7 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.40 %
+Python                     20 hrs 37 mins  ██▒░░░░░░░░░░░░░░░░░░░░░░   08.76 %
+HTML                       15 hrs 53 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
 Batchfile                  5 hrs 41 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
 CSS                        3 hrs 56 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-YAML                       3 hrs 30 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+YAML                       3 hrs 43 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
 ```
 
 <!--END_SECTION:waka-->
