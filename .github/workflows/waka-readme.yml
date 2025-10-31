@@ -19,12 +19,12 @@ jobs:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           # BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           CODE_LANG: C++,Python,Java,JavaScript,TypeScript,HTML,CSS,Markdown,JSON,PHP,Mathlab,C,Pascal,Yaml,PowerShell,Shell,Bash,Go,Swift,Rust,Kotlin,Dart,Groovy,Perl,Ruby,F#,R,SQL,Batchfile,Assembly
-          TIME_RANGE: all_time
+          # TIME_RANGE: all_time
           LANG_COUNT: 10
-          STOP_AT_OTHER: "True"
+          STOP_AT_OTHER: "False"
           SYMBOL_VERSION: 3
-          DEBUG_LOGGING: "True"
+          DEBUG_LOGGING: "False"
           SHOW_PROJECTS: "False"
-          SHOW_LINES_OF_CODE: "True"
+          SHOW_LINES_OF_CODE: "False"
           SHOW_LOC_CHART: "False"
           LOCALE: "en"
