@@ -28,7 +28,7 @@ Let's connect and create something amazing together!
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="php"  alt="php" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java"  alt="java" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="typescript"  alt="typescript" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original-wordmark.svg" title="typescript"  alt="typescript" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/prolog/prolog-original.svg" title="typescript"  alt="typescript" width="50" height="50"/>
 
 ### Frameworks & Libraries:
 
