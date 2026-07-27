@@ -88,6 +88,8 @@ Let's connect and create something amazing together!
 ---
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-38%20hrs%2049%20mins-blue?style=flat)
+
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -103,6 +105,28 @@ VS Code                  1 hr 37 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛�
 
 💻 Operating System: 
 Windows                  1 hr 37 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 1 hr 13 mins (75.61%)
+
+✍️ 1,854 lines written by AI, 68 lines written by hand (96.46% AI-written)
+
+🔤 4,354,011 Input Tokens, 80,414 Output Tokens
+
+💵 $11.71 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 18 AI Prompts
+
+GPT                      1,894 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 96.46% of written lines came from AI
+📚 Verbose Prompter — average 2,103 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 6.97% of changed lines were hand-edited
 ```
 
 
