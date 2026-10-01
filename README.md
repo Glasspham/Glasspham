@@ -88,51 +88,51 @@ Let's connect and create something amazing together!
 ---
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-84%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-86%20hrs%2040%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
 ```text
 💬 Programming Languages: 
-TeX                      7 hrs 24 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   44.80 % 
-Markdown                 4 hrs 6 mins        ⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   24.86 % 
-Python                   1 hr 50 mins        ⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   11.16 % 
-CSV                      58 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   05.90 % 
-PowerShell               44 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.49 % 
+TeX                      8 hrs 8 mins        ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   50.96 % 
+Markdown                 2 hrs 58 mins       ⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   18.64 % 
+Python                   1 hr 32 mins        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.61 % 
+CSV                      1 hr 15 mins        ⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.83 % 
+PowerShell               44 mins             ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   04.64 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 52 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜   65.82 % 
-Codex Vscode             5 hrs 26 mins       ⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   32.99 % 
-Antigravity IDE          11 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.20 % 
+VS Code                  10 hrs 59 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜   68.90 % 
+Codex Vscode             4 hrs 46 mins       ⬛⬛⬛⬛⬛⬛⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   29.86 % 
+Antigravity IDE          11 mins             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   01.24 % 
 
 💻 Operating System: 
-Windows                  16 hrs 31 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
+Windows                  15 hrs 57 mins      ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 43 mins (52.84%)
+⏱ AI Coding Time: 7 hrs 52 mins (49.38%)
 
-✍️ 3,379 lines written by AI, 902 lines written by hand (78.93% AI-written)
+✍️ 2,978 lines written by AI, 258 lines written by hand (92.03% AI-written)
 
-🔤 21,178,644 Input Tokens, 1,255,639 Output Tokens
+🔤 36,560,140 Input Tokens, 2,191,848 Output Tokens
 
-💵 $251.16 Estimated AI Cost This Week
+💵 $440.69 Estimated AI Cost This Week
 
-🧠 22 AI Sessions, 126 AI Prompts
+🧠 22 AI Sessions, 119 AI Prompts
 
-GPT                      3,307 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   96.61 % 
-Antigravity-Ide          116 lines           ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.39 % 
+GPT                      2,906 lines         ⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬛⬜   96.16 % 
+Antigravity-Ide          116 lines           ⬛⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   03.84 % 
 Codex-Vscode             0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
 Gemini                   0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
 Oss                      0 lines             ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 78.93% of written lines came from AI
-📚 Verbose Prompter — average 7,149 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 26.18% of changed lines were hand-edited
+🤖 AI-Driven — 92.03% of written lines came from AI
+📚 Verbose Prompter — average 6,834 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 16.1% of changed lines were hand-edited
 ```
 
 
